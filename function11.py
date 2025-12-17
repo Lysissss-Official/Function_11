@@ -14,9 +14,7 @@
 # f(x/10) = f((1-x)/10)
 # f(x/10) = f(0.1-x/10)，同理f(1-x/10) = f(x/10+0.9)
 # 递归求证f(x)是分形，f(x)在[a,b]与[a,a+(b-a)/10],[b-(b-a)/10,b]自相似，其中初始a=0，b=1
-# 题目条件转化为：
-# f(i)=0.5，其中i∈[0.1,0.9]
-# 
+
 import numpy as np
 import matplotlib.pyplot as plt
 
