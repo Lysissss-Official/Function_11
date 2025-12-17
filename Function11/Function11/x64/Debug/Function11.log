@@ -1,0 +1,14 @@
+﻿  Function11.cpp
+F:\Function11\Function11\Function11.cpp(31,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(31,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(62,113): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(62,96): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(62,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(62,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(76,18): warning C4475: “swprintf_s”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+F:\Function11\Function11\Function11.cpp(78,18): warning C4475: “swprintf_s”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+F:\Function11\Function11\Function11.cpp(122,12): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(123,12): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(133,12): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+F:\Function11\Function11\Function11.cpp(134,12): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+  Function11.vcxproj -> F:\Function11\x64\Debug\Function11.exe
